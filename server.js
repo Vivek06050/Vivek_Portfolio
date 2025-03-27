@@ -26,5 +26,6 @@ app.use('/api', messageRoutes);
 app.get('/', (req, res) => {
   res.sendFile(path.resolve(__dirname, "Frontend","Backend", "index.html"));
 });
+module.exports = app;
 
 
