@@ -27,7 +27,7 @@ fetch(`${window.location.origin}/chatbot-key`)
                 });
             }
 
-            const onLoad = function() {
+            const onLoad = function()  { 
                 const script = document.createElement("script");
                 script.src = "https://www.chatbase.co/embed.min.js";
                 script.id = secret;  
