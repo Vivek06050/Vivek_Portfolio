@@ -143,7 +143,7 @@ document.getElementById('contactForm').addEventListener('submit', async function
     // Process the response from the backend
     if (response.ok) {
       const data = await response.json();
-      alert(data.message || "Message sent successfully!");
+      alert("Message sent successfully!");
       // Optionally, reset the form
       document.getElementById('contactForm').reset();
     } else {
