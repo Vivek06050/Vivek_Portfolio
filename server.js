@@ -29,10 +29,6 @@ app.get('/', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'Frontend', 'Backend', 'index.html'));
 });
 
-app.get("/chatbot-key", (req, res) => {
-  res.json({ key: process.env.CHATBASE_SECRET_KEY });
-});
-
 // If running locally, start the server; otherwise export the app for Vercel's serverless function
 if (require.main === module) {
   const PORT = process.env.PORT || 3000;

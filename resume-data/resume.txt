@@ -1,0 +1,104 @@
+Candidate Name: Vivek Kumar
+- This is the full name of the candidate.
+
+Mobile: +91-8400752997
+- Primary contact number with the country code for India.
+
+Email: vivek.kumar.civ22@iitbhu.ac.in
+- Institutional email address used for professional communication.
+
+Hometown: Sultanpur, Uttar Pradesh, India
+- Permanent place of residence.
+
+Current Location: Varanasi, Uttar Pradesh, India
+- Present city where the candidate is studying/living.
+
+Portfolio: https://vivek-portfolio-two-xi.vercel.app/
+- Personal website showcasing projects, skills, and contact details.
+
+LinkedIn: https://www.linkedin.com/in/vivek-kumar-32a511258/
+- Professional profile for networking and sharing career achievements.
+
+GitHub: https://github.com/Vivek06050
+- Repository of open-source projects and code samples.
+
+Codeforces: https://codeforces.com/profile/vivek2997
+- Competitive programming profile.
+  - Achieved *Expert* level, indicating strong problem-solving abilities.
+  - Maximum rating of **1624**, demonstrating consistent high performance among competitive programmers.
+  - Solved **400+ problems**, showcasing dedication and problem-solving stamina.
+
+Leetcode: https://leetcode.com/vivek__kumar2/
+- Another competitive programming platform profile.
+  - Solved **450+ problems** across platforms (LeetCode, AtCoder, CodeChef).
+  - Shows versatility and wide exposure to coding challenges.
+
+---
+
+EDUCATION
+- Institution: Indian Institute of Technology (BHU) Varanasi
+  - Prestigious technical university in India.
+- Program: Bachelor of Technology (B.Tech)
+  - Undergraduate engineering degree.
+- Field: Civil Engineering
+  - Major discipline of study.
+- Year: 2022 – 2026
+  - Duration of the program.
+- Current CGPA: 7.24
+  - Reflects academic performance (on a scale of 10).
+
+---
+
+TECHNICAL SKILLS
+- Languages: C, C++20, JavaScript
+  - Strong foundation in core programming and scripting languages.
+- Technologies & Frameworks: HTML5, CSS3, TailWind CSS, React, Redux, NodeJS, Express, MongoDB, Mongoose
+  - Full-stack development skills (MERN stack).
+  - Able to build responsive, dynamic web applications from frontend to backend.
+- Developer Tools: Visual Studio Code, Git/GitHub, Canva
+  - Familiarity with code editors, version control, and design tools.
+- Areas of Interest: Software Development, System Development, Data Structures and Algorithms, Full Stack Development
+  - Clearly defined focus areas help define career trajectory.
+
+---
+
+PROJECTS
+
+1. Chat Room
+   - Stack: React-JS, Node-JS, Express-JS, Socket.IO, MongoDB
+   - Description:
+     - Developed a real-time messaging application.
+     - Implemented JWT authentication for secure user sessions.
+     - Used Socket.IO for instant message transmission.
+   - GitHub Repo: https://github.com/Vivek06050/Chat_Room
+
+2. Quiz Application
+   - Stack: React.js, Node.js, Express.js, JWT
+   - Description:
+     - Built a quiz platform with login authentication.
+     - Leaderboard and feedback features enhance user engagement.
+   - GitHub Repo: https://github.com/Vivek06050/Quiz_Application/
+
+3. GitHub User Profile Viewer
+   - Technologies: HTML, CSS, JavaScript, GitHub API
+   - Description:
+     - Created a UI to fetch GitHub user data.
+     - Displays repositories, followers, and other details.
+   - GitHub Repo: https://github.com/Vivek06050/Github-user-profile/
+
+---
+
+COMPETITIVE PROGRAMMING
+- Codeforces: Expert level, Max Rating 1624
+  - Strong indicator of algorithmic thinking and problem-solving.
+- Solved 400+ problems on Codeforces
+- Solved 450+ problems across LeetCode, AtCoder, and CodeChef
+  - Consistent participation and improvement across major platforms.
+
+---
+
+CERTIFICATIONS & EXTRACURRICULARS
+- Participated in Goldman Sachs 24-hour hackathon
+  - Worked on real-world datasets, showing adaptability and team collaboration.
+- Participated in Trad-A-Thon at B.A.S.H 6.0
+  - Showcased analytical and innovative thinking in a tech event hosted by IIT (BHU).
